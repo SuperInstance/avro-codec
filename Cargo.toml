@@ -1,0 +1,9 @@
+[package]
+name = "avro-codec"
+version = "0.1.0"
+description = "A Rust library for Avro Codec"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/casey-digennaro/avro-codec"
+edition = "2021"
+
+[dependencies]
