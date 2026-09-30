@@ -1,9 +1,11 @@
 [package]
 name = "avro-codec"
 version = "0.1.0"
-description = "A Rust library for Avro Codec"
+description = "Avro Codec — Rust implementation with the SuperInstance polyformalism canary wired in."
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/casey-digennaro/avro-codec"
+repository = "https://github.com/SuperInstance/avro-codec"
 edition = "2021"
+
+keywords = ["avro-codec"]
 
 [dependencies]
